@@ -48,6 +48,6 @@ Feel free to fork this repository, suggest improvements, or add further analysis
 This project is for educational purposes and follows open data usage policies.
 
 ---
-📌 **Author:** [yagizterzi]  
+📌 **Author:** [yagizterzi](https://github.com/yagizterzi) 
 📌 **Source:** [StrataScratch - Terrorism Hotspots](https://platform.stratascratch.com/data-projects/terrorism-hotspots)
 ```
