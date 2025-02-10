@@ -24,7 +24,7 @@ pip install pandas matplotlib seaborn plotly.express bar_chart_race
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone <[repository-ur](https://github.com/yagizterzi/TerrorismAnalysis)>
+   git clone <https://github.com/yagizterzi/TerrorismAnalysis>
    ```
 2. Navigate to the project folder:
    ```bash
